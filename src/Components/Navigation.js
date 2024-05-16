@@ -11,11 +11,11 @@ export default function Navigation() {
                     <nav>
                         <ul>
                             <li>
-                                <a href="#"><img src={ucc} alt="UCC. Click for home." /></a>
+                                <a href="https://www.ucc.ie/en/"><img src={ucc} alt="UCC. Click for home." /></a>
                             </li>
-                            <li><a href="#">INFORMATION TECHNOLOGY</a></li>
-                            <li><a href="#">&nbsp;| CENTER FOR THE HUMANITIES</a></li>
-                            <li><a href="#">&nbsp;| ARTS & SCIENCE</a></li>
+                            <li><a href="https://www.ucc.ie/en/">INFORMATION TECHNOLOGY</a></li>
+                            <li><a href="https://www.ucc.ie/en/">&nbsp;| CENTER FOR THE HUMANITIES</a></li>
+                            <li><a href="https://www.ucc.ie/en/">&nbsp;| ARTS & SCIENCE</a></li>
                         </ul>
                     </nav>
                 </header>
