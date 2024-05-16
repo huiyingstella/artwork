@@ -11,13 +11,13 @@ export default function FooterContent() {
                         <h4>SOCIAL</h4>
                         <ul>
                             <li>
-                                <a href="https://www.facebook.com" target="_blank">Contact Us</a>
+                                <a href="https://www.facebook.com" target="_blank" rel="noreferrer">Contact Us</a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com" target="_blank">Mailing List</a>
+                                <a href="https://www.instagram.com" target="_blank" rel="noreferrer">Mailing List</a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com" target="_blank">Slack Channel</a>
+                                <a href="https://www.instagram.com" target="_blank" rel="noreferrer">Slack Channel</a>
                             </li>
                         </ul>
                     </div>
@@ -25,16 +25,16 @@ export default function FooterContent() {
                         <h4>PARTNERS</h4>
                         <ul>
                             <li>
-                                <a href="https://www.facebook.com" target="_blank">Libraries</a>
+                                <a href="https://www.facebook.com" target="_blank" rel="noreferrer">Libraries</a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com" target="_blank">Information Technology</a>
+                                <a href="https://www.instagram.com" target="_blank" rel="noreferrer">Information Technology</a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com" target="_blank">Center for the Humanities</a>
+                                <a href="https://www.instagram.com" target="_blank" rel="noreferrer">Center for the Humanities</a>
                             </li>
                             <li>
-                                <a href="https://www.instagram.com" target="_blank">Arts & Science</a>
+                                <a href="https://www.instagram.com" target="_blank" rel="noreferrer">Arts & Science</a>
                             </li>
                         </ul>
                     </div>
@@ -42,7 +42,7 @@ export default function FooterContent() {
                         <h4>POLICIES</h4>
                         <ul>
                             <li>
-                                <a href="https://www.facebook.com" target="_blank">UCC Accessibility</a>
+                                <a href="https://www.facebook.com" target="_blank" rel="noreferrer">UCC Accessibility</a>
                             </li>
                         </ul>
                     </div>
