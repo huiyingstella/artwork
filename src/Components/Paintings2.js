@@ -10,13 +10,13 @@ export default function Paintings2() {
         <Paintings2Styled>
             <div className="wrapper">
                 <figure>
-                    <img src={OfA} alt="officer photo" />
+                    <img src={OfA} alt="student"/>
                     <figcaption>
                         <h4>Christina</h4>
                     </figcaption>
                 </figure>
                 <figure>
-                    <img src={OfB} alt="officer photo" />
+                    <img src={OfB} alt="student"/>
                     <figcaption>
                         <h4>Bernie</h4>
                     </figcaption>

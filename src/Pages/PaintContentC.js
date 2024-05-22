@@ -26,7 +26,7 @@ export default function PaintContentC() {
                 <div className="left">
                     <div className="content">
                         <figure>
-                            <img className='img1' src={offA} alt="Lecturer" />
+                            <img className='img1' src={offA} alt="student" />
                             <figcaption>
                                 <h2>Tao Ran, China</h2>
                                 <span>Digital painting </span>
@@ -45,12 +45,12 @@ export default function PaintContentC() {
                         <p>
                             "I've been drawing since I was very young, copying images from fan calendars and traditional Chinese New Year paintings. It wasn't until my senior year of high school that I began professional art training, practicing sketching and color techniques, and then taking the art entrance exams. After a period of drawing with a mouse, I started digital painting in my sophomore year of college."
                         </p>
-                        <img className='int' src={int5} alt="Lecturer photo" />
+                        <img className='int' src={int5} alt="student" />
                         <h6>Why did you choose the path of painting, which seems like a road of no return?</h6>
                         <p>
                             "Personally, I majored in Visual Communication Design and initially worked in graphic design and other visual design fields. Although I was good at it, I didn't like others pointing out flaws in my work. I started experimenting with digital painting and thought I could try taking small freelance projects under my own name and collaborating with companies. This way, if my energy was limited, I could take fewer projects and still meet my basic needs."
                         </p>
-                        <img className='int' src={int6} alt="Lecturer photo" />
+                        <img className='int' src={int6} alt="student" />
                         <h6>What does your current illustration work include? (Publishing, commercial illustration, packaging, etc.)</h6>
                         <p>
                             "Initially, I painted wall murals, then wedding scenes. Later, I started illustrating book covers and experimented with tape stickers. Recently, I've tried puzzles. I've worked in various fields such as magazines, packaging, decorative paintings, and prints. Publishing is a major direction for me, with most of my projects being book covers and interiors."
@@ -63,7 +63,7 @@ export default function PaintContentC() {
                         <p>
                             "Initially, I couldn't find a style I was good at, so I experimented with many different ones. Currently, I feel I haven't fully developed a unique style and am still in the exploratory phase. Some attempts were abandoned along the way, but I've become much clearer compared to the beginning."
                         </p>
-                        <img className='int' src={int7} alt="Lecturer photo" />
+                        <img className='int' src={int7} alt="student"/>
                         <h6>What if you have a lot of ideas but don't know where to focus your efforts?</h6>
                         <p>
                             " It's actually quite simple, just keep yourself busy. Fill up your schedule, and as you work on many things, many will naturally narrow down. Try to think less and do more. Use the time spent on anxiety and confusion to take action. Even if I make a mistake, I gain experience from trying."

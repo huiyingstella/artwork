@@ -13,7 +13,6 @@ import { useNavigate } from 'react-router-dom';
 
 
 
-const onSearch = (value, _e, info) => console.log(info?.source, value);
 
 export default function Smallnav() {
     const navigate = useNavigate();

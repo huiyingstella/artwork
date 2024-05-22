@@ -16,43 +16,43 @@ export default function Paintings() {
     <PaintingsStyled>
       <div className="wrapper">
         <figure>
-          <img src={DrC} alt="Student" />
+          <img src={DrC} alt="student"/>
           <figcaption>
           <a href="/paintcontent"><h4>Yi Chang</h4></a>
           </figcaption>
         </figure>
         <figure>
-          <img src={DrB} alt="student" />
+          <img src={DrB} alt="student"/>
           <figcaption>
           <a href="/paintcontentB"><h4>Liu Ding</h4></a>
           </figcaption>
         </figure>
         <figure>
-          <img src={offA} alt="student" />
+          <img src={offA} alt="student"/>
           <figcaption>
           <a href="/paintcontentC"><h4>Tao Ran</h4></a>
           </figcaption>
         </figure>
         <figure>
-          <img src={DrD} alt="student" />
+          <img src={DrD} alt="student"/>
           <figcaption>
             <h4> Maggie</h4>
           </figcaption>
         </figure>
         <figure>
-          <img src={DrE} alt="student" />
+          <img src={DrE} alt="student"/>
           <figcaption>
             <h4>Cary</h4>
           </figcaption>
         </figure>
         <figure>
-          <img src={DrF} alt="student" />
+          <img src={DrF} alt="student"/>
           <figcaption>
             <h4>Daniel</h4>
           </figcaption>
         </figure>
         <figure>
-          <img src={DrA} alt="student" />
+          <img src={DrA} alt="student"/>
           <figcaption>
             <h4>Josephine</h4>
           </figcaption>

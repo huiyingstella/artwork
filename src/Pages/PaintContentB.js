@@ -23,7 +23,7 @@ export default function PaintContentB() {
                 <div className="left">
                     <div className="content">
                         <figure>
-                            <img className='img1' src={DrB} alt="Lecturer" />
+                            <img className='img1' src={DrB} alt="student"/>
                             <figcaption>
                                 <h2>Liu Ding, Singapore</h2>
                                 <span>Canvas Acrylic Painting</span>
@@ -42,12 +42,12 @@ export default function PaintContentB() {
                             <p>
                                 "I've loved drawing since I was a child. I even skipped school to stay home making crafts and drawing, which drove my mom crazy."
                             </p>
-                            <img className='int' src={int3} alt="Lecturer photo" />
+                            <img className='int' src={int3} alt="student" />
                             <h6>Have you always done hand-drawing? Do you plan to try digital drawing?</h6>
                             <p>
                                 "I've always done hand-drawing. I'm a jinx for electronic technology. Anything that involves using machines breaks down! Also, I don't really know how to use them, maybe I'm just too clumsy to get the hang of it, hahaha."
                             </p>
-                            <img className='int' src={int4} alt="Lecturer photo" />
+                            <img className='int' src={int4} alt="student" />
                             <h6>Why did you create the "Dream Island" series?</h6>
                             <p>
                                 ""Dream Island" is a beautiful and romantic story. I started this series after my husband and I got married and moved to Singapore to study last June. This style is completely different from my previous works, which were more gloomy by comparison. Entering marriage brought many beautiful memories and a sense of security, so "Dream Island" has a fresh feel.""

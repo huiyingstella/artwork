@@ -11,7 +11,7 @@ export default function Navigation() {
                     <nav>
                         <ul>
                             <li>
-                                <a href="https://www.ucc.ie/en/"><img src={ucc} alt="UCC. Click for home." /></a>
+                                <a href="https://www.ucc.ie/en/"><img src={ucc} alt="ucc"/></a>
                             </li>
                             <li><a href="https://www.ucc.ie/en/">INFORMATION TECHNOLOGY</a></li>
                             <li><a href="https://www.ucc.ie/en/">&nbsp;| CENTER FOR THE HUMANITIES</a></li>

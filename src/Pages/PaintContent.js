@@ -25,7 +25,7 @@ export default function PaintContent() {
                 <div className="left">
                     <div className="content">
                         <figure>
-                            <img className='img1' src={DrC} alt="Lecturer" />
+                            <img className='img1' src={DrC}/>
                             <figcaption>
                                 <h2>Yi Chang, China</h2>
                                 <span>Majoring in Visual Communication</span>
@@ -53,7 +53,7 @@ export default function PaintContent() {
                             <p>
                                 "In 2022, I was particularly diligent and painted many colorful sketches."
                             </p>
-                            <img className='int' src={int1} alt="Lecturer photo" />
+                            <img className='int' src={int1}/>
                             <h6>
                                 Why did you create the "Town Series"? How did you come up with the imaginative scenes in it?
                             </h6>
@@ -65,7 +65,7 @@ export default function PaintContent() {
                             <p>
                                 " I have many discarded drawings, and some finished ones feel too bad and are hidden by me. I think enthusiasm comes from not drawing commissions but always having a passion for drawing. The only way for me to keep doing something is to force myself. I started drawing the "Town Series" around October last year, and I set a goal for myself to update daily for a month. Promising this method on social media has been very useful for me. I feel embarrassed to lie, so I will persist in finishing it."
                             </p>
-                            <img className='int' src={int2} alt="Lecturer photo" />
+                            <img className='int' src={int2}/>
                             <h6>Now the "Town Series" is also a very vibrant IP. What types of collaborations are currently more common?</h6>
                             <p>
                                 "Currently, the main types of collaborations are related to books and puzzles. The clients probably value my imagination, and many of them like delicate graphics. It has been liked by many friends, and I have also interacted with many teachers I like. Other collaborations are basically seen by clients through this series."
