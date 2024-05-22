@@ -1,29 +1,27 @@
 import styled from 'styled-components';
-import Navigation from './Components/Navigation';
 import background from './img/background.png'
-import Smallnav from './Components/Smallnav';
+import React from 'react'
 import BodyContent from './Components/BodyContent';
-import FooterContent from './Components/FooterContent';
+import BodyText from './Components/BodyText';
 
-
-function App() {
+export default function App() {
   return (
     <AppStyled>
-      <Navigation/>
-      <Smallnav/>
       <BodyContent/>
-      <FooterContent/>
+      <BodyText/>
     </AppStyled>
-  );
+  )
 }
+
 const AppStyled = styled.nav`
 width: 100%;
-height: 35rem;
+min-height: 100vh;
+display: flex;
+flex-direction: column;
 background-image: url(${background}); 
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center; 
 background-attachment: fixed; 
-
+flex-grow: 1;
 `
-export default App;
