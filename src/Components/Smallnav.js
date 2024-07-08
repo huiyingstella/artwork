@@ -34,7 +34,7 @@ export default function Smallnav() {
             <SmallnavStyled>
                 <Navbar expand="lg" className="bg-body-tertiary">
                     <Container>
-                        <Navbar.Brand className="UCC" href="#home">UCC&nbsp;&nbsp;</Navbar.Brand>
+                        <Navbar.Brand className="UCC" href="/">UCC&nbsp;&nbsp;</Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav" />
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav className="me-auto">
